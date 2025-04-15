@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">Hallo! Dies ist ein Testanruf von deiner Twilio-Demo.</Say>
+    <Pause length="1"/>
+    <Say voice="woman">Danke, dass du uns kontaktiert hast.</Say>
+</Response>
